@@ -1,0 +1,23 @@
+body {
+	background-color: #688cff ;
+}
+
+h1 {
+	color: #ffffff ;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 60px;
+}
+
+h2 {
+	color: #3cb371 ;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 50px;
+
+}
+
+p {
+	color: #ff0000 ;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-size: 40px;
+
+}
